@@ -1,0 +1,18 @@
+
+/* O s w a l d  F o n t */
+@font-face {
+    font-family: Oswald;
+    src: url('../fonts/Oswald/Oswald-VariableFont_wght.ttf');
+}
+
+/* P r a i s e   F o n t  */
+@font-face {
+    font-family: Praise;
+    src: url('../fonts/Praise/Praise-Regular.ttf');
+}
+
+/* C o r m o r a n t  F o n t */
+@font-face {
+    font-family: Cormorant;
+    src: url('../fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf');
+}
